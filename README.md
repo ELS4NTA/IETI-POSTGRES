@@ -43,8 +43,14 @@ Con el uso de postman realizar las operaciones crear y leer sobre los usuarios d
 }
 ```
 
+![image](https://github.com/ELS4NTA/IETI-POSTGRES/assets/99996670/4e17d120-649e-40d5-ba37-68adcaf5992a)
+
+![image](https://github.com/ELS4NTA/IETI-POSTGRES/assets/99996670/3ff6fab3-27df-479b-bf89-aa851c59108f)
 
 ## Parte 5️⃣
 
-Verificar que los datos se estén almacenando en la base de datos con un cliente de base de datos como [DBeaver](https://dbeaver.io/).
+Verificar que los datos se estén almacenando en la base de datos creando una conexión con un cliente de base de datos como [DBeaver](https://dbeaver.io/).
 
+![image](https://github.com/ELS4NTA/IETI-POSTGRES/assets/99996670/9c9b76e2-09cf-4a8d-b5eb-9930160f3bff)
+
+![image](https://github.com/ELS4NTA/IETI-POSTGRES/assets/99996670/f1661da9-8116-4de4-b7b2-3d74c024f778)
